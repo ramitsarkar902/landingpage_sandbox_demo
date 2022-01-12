@@ -1,0 +1,43 @@
+.accordionButtonCustom {
+  padding: 0 !important;
+  background-color: white !important;
+  color: black !important;
+  border: none !important;
+  margin: 10px !important;
+  border-style: none !important;
+  transition: 0.4s all ease-in-out !important;
+}
+.accordionButtonCustom:hover {
+  color: blue !important;
+}
+.accordion-button:icon {
+  margin: 10px !important;
+}
+.accordion-collapse {
+  border: 0 !important;
+}
+.icon_svg {
+  object-fit: fill !important;
+  height: 30px !important;
+  width: 30px !important;
+  z-index: 10;
+  margin-right: 15px;
+  margin-top: 10px !important;
+  align-items: center !important;
+}
+/* .icon_svg text {
+  color: blue !important;
+} */
+.thirdSectionFooterDiv {
+  margin-top: 40px !important;
+}
+.thirdSectionFooterDivImg {
+  margin-left: 20px !important;
+}
+.card-header {
+  background-color: white !important;
+  border: none !important;
+}
+.thirdSectionHeaderDivContent {
+  margin-right: 20px !important;
+}
