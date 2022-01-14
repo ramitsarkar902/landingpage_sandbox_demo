@@ -1,0 +1,44 @@
+.widget p {
+  color: gray !important;
+  font-weight: 500 !important;
+  font-size: 18px !important;
+}
+.widget1 p {
+  color: gray;
+  font-weight: 500 !important;
+  font-size: 18px !important;
+}
+.widget1 {
+  margin-bottom: 20px !important;
+}
+.fab {
+  color: #fff;
+}
+.widget1 a {
+  padding: 0px 15px 0px 0px !important;
+
+  position: relative;
+}
+.widget1 a:hover {
+  bottom: 4px !important;
+}
+.widget a {
+  text-decoration: none !important;
+  color: gray !important;
+  font-weight: 500 !important;
+  font-size: 18px !important;
+}
+.widget li {
+  margin-bottom: 9px !important;
+}
+.widget a:hover {
+  color: blue !important;
+}
+.widget h4 {
+  font-weight: 600 !important;
+  font-size: 25px !important;
+}
+.email_footer {
+  align-items: center !important;
+  justify-content: center !important;
+}

@@ -1,0 +1,13 @@
+.section_about_style {
+  padding-top: 75px !important;
+  margin-top: -75px !important;
+}
+
+.item {
+  margin-left: 25px !important;
+  padding: 10px !important;
+  text-align: center !important;
+}
+.item a {
+  padding: 10px !important;
+}

@@ -1,0 +1,16 @@
+.testimonial_section_style {
+  padding-top: 75px !important;
+  margin-top: -75px !important;
+}
+.owl-item {
+  width: 690px !important;
+  margin-right: 30px !important;
+}
+.owl-stage1 {
+  transform: translate3d(0px, 0px, 0px) !important;
+  transition: all 0s ease 0s !important;
+  width: 2160px !important;
+}
+.owl-item p {
+  font-weight: 600 !important;
+}
