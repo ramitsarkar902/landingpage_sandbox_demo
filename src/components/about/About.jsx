@@ -10,11 +10,6 @@ import {
 } from "react-icons/ri";
 import { IoLogoTwitter } from "react-icons/io";
 function About() {
-  const [index, setIndex] = useState(0);
-
-  const handleSelect = (selectedIndex, e) => {
-    setIndex(selectedIndex);
-  };
   return (
     <section id="about" className="section_about_style">
       <div className="wrapper bg-white pt-5 mt-5 mb-5 pb-5">

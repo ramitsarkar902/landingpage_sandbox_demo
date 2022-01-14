@@ -79,7 +79,69 @@ function Testimonial() {
               </Carousel>
             </div>
           </div>
-          <div class="px-lg-5"></div>
+          <div class="px-lg-5">
+            <div class="row gx-0 gx-md-8 gx-xl-12 gy-8 align-items-center ">
+              <div class="col-4 col-md-2">
+                <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4">
+                  <img
+                    src="https://sandbox.elemisthemes.com/assets/img/brands/c1.png"
+                    style={{ width: "110px" }}
+                    alt=""
+                  />
+                </figure>
+              </div>
+
+              <div class="col-4 col-md-2">
+                <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4">
+                  <img
+                    src="https://sandbox.elemisthemes.com/assets/img/brands/c2.png"
+                    style={{ width: "110px" }}
+                    alt=""
+                  />
+                </figure>
+              </div>
+
+              <div class="col-4 col-md-2">
+                <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4">
+                  <img
+                    src="https://sandbox.elemisthemes.com/assets/img/brands/c2.png"
+                    style={{ width: "110px" }}
+                    alt=""
+                  />
+                </figure>
+              </div>
+
+              <div class="col-4 col-md-2">
+                <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4">
+                  <img
+                    src="https://sandbox.elemisthemes.com/assets/img/brands/c4.png"
+                    style={{ width: "110px" }}
+                    alt=""
+                  />
+                </figure>
+              </div>
+
+              <div class="col-4 col-md-2">
+                <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4">
+                  <img
+                    src="https://sandbox.elemisthemes.com/assets/img/brands/c5.png"
+                    style={{ width: "110px" }}
+                    alt=""
+                  />
+                </figure>
+              </div>
+
+              <div class="col-4 col-md-2">
+                <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4">
+                  <img
+                    src="https://sandbox.elemisthemes.com/assets/img/brands/c6.png"
+                    style={{ width: "110px" }}
+                    alt=""
+                  />
+                </figure>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>

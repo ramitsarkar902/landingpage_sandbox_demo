@@ -1,0 +1,12 @@
+.home_section_style {
+  padding-top: 81.2px !important;
+  margin-top: -81.2px !important;
+}
+.customized_text {
+  animation-name: zoomIn;
+  animation-duration: 700ms;
+  animation-timing-function: ease;
+  animation-delay: 500ms;
+  animation-direction: normal;
+  animation-fill-mode: both;
+}
