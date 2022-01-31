@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The live website is hosted at https://relaxed-noether-3e4d2e.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
